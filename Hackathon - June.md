@@ -8,3 +8,7 @@ Prioritize
 # Researchers' TODO:
 - [ ] Where are the bike facility in Princeton
 - [ ] Map decent cycling routes for Princeton
+- [ ] Display trip planning options
+    - [ ] Quicker vs. Safer - Code for Philly OpenTripPlanner > Bike Share Planner > Trip Options 
+    - [ ] Flat vs. Hills - ""
+    - [ ] Estimated trip time - ""
