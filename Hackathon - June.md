@@ -8,3 +8,5 @@ Prioritize
 # Researchers' TODO:
 - [ ] Where are the bike facility in Princeton
 - [ ] Map decent cycling routes for Princeton
+- [ ] Map bike rack locations
+- [ ] 
